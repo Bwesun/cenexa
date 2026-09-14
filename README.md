@@ -1,4 +1,4 @@
-# Cenexa
+# Cenexa Examination Platform
 A modern, responsive, and secure cross-platform digital examination solution built using React, Ionic, TypeScript, and Tailwind CSS. The platform is designed to make exam planning, progress tracking, and results review simple, fast, and secure for learners and administrators alike; with a secure, role-based backend service for managing exam creation, question delivery, candidate assessment, and result reporting. The service is built with Node.js, Express, MongoDB, and JWT-based authentication, and exposes a Swagger-driven API surface for developers and administrators.
 
  What is this app all about? (In simple terms)
