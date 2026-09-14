@@ -1,4 +1,4 @@
-import importQuestionsFromCSV from "../../../temp_exam/backend/services/questionImport.service.js";
+import importQuestionsFromCSV from "../services/questionImport.service.js";
 
 export const uploadQuestions = async (req, res) => {
 
