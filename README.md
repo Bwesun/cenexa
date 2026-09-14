@@ -4,7 +4,7 @@ A modern, responsive, and secure cross-platform digital examination solution bui
  What is this app all about? (In simple terms)
 Imagine you are running a school, a college, or a professional licensing board. You need a way to create exams, register students, conduct the tests securely, grade them instantly, and show students how they did—all without wasting tons of paper or getting lost in messy spreadsheets.
 
-That is exactly what ExamPro (the RAN Examination Platform) does! It is a modern, all-in-one digital exam center that runs beautifully on laptops, tablets, and mobile phones.
+That is exactly what Cenexa (the Censono Examination Platform) does! It is a modern, all-in-one digital exam center that runs beautifully on laptops, tablets, and mobile phones.
 
 Here is how the app serves everyone involved in the exam process, using four simple roles:
 
@@ -32,4 +32,4 @@ Sleek Exam Room: When they start an exam, they enter a clean, distraction-free d
 Smart Navigation: They get a neat progress board showing them exactly which questions they have answered, which ones they skipped, and which ones they flagged as "I want to review this later before submitting."
 Instant feedback: As soon as the Admin publishes the results, the student can log in, view their scorecard, and see if they passed or failed.
  Summary
-In short, ExamPro replaces paper exams, manual grading, and messy results tracking with a fast, secure, and automated digital testing system that makes life easier for administrators, teachers, and students alike!
+In short, Cenexa replaces paper exams, manual grading, and messy results tracking with a fast, secure, and automated digital testing system that makes life easier for administrators, teachers, and students alike!
