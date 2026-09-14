@@ -1,0 +1,13 @@
+✅ View all submitted scripts
+✅ View each student's score
+✅ Rank students by performance
+✅ View pass/fail statistics (Bar Chart)
+✅ Recalculate scores (if marking changes)
+✅ Publish results to students
+✅ Hide results until approval
+✅ Download all result broadsheet
+  - Position
+  - Student Name
+  - RAN Number
+  - Total Score
+  - Remarks (Pass/Fail)

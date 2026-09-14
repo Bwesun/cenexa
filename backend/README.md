@@ -47,7 +47,7 @@ This backend is designed to provide:
 ## 4. Project Structure
 
 ```text
-exampro_backend/
+cenexa_backend/
 ├── controllers/
 │   └── question.controller.js
 ├── middleware/
