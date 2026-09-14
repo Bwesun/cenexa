@@ -51,8 +51,8 @@ app.use(limiter);
 // Connect to MondoDB
 mongoose
     .connect(process.env.MONGODB_URI)
-    .then(() => console.log('Connected to RAN Exam Database!'))
-    .catch((error) => console.error('Error connecting to RAN Exam Database: ', error));
+    .then(() => console.log('Connected to Cenexa Exam Database!'))
+    .catch((error) => console.error('Error connecting to Cenexa Exam Database: ', error));
 
 // Multer error handling
 app.use((err, req, res, next) => {
@@ -98,7 +98,7 @@ app.use((err, req, res, next) => {
 // API Routes
 // Test Backend
 app.get("/", (req, res) => {
-    res.send("RAN Exam App backend is Running!");
+    res.send("Cenexa Exam App backend is Running!");
 })
 
 app.use("/api/auth", authRoutes);
@@ -119,7 +119,7 @@ app.use(
 );
 
 const PORT = Number(process.env.PORT) || 5000;
-const HOST = '0.0.0.0';
+// const HOST = '0.0.0.0';
 
 // Start the server
-app.listen(PORT, HOST, () => console.log(`Listening on ${HOST}:${PORT}`));
+app.listen(PORT, () => console.log(`Listening on port ${PORT}`));
