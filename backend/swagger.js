@@ -5,9 +5,9 @@ const options = {
     openapi: "3.0.0",
 
     info: {
-      title: "RAN Exam API",
+      title: "Cenexa Exam API",
       version: "1.0.0",
-      description: "RAN Exam Backend API Documentation",
+      description: "Cenexa Exam Backend API Documentation",
     },
 
     servers: [
